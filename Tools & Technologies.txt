@@ -1,1 +1,12 @@
+Technologies:
+1. Galaxy server
+2. NCBI data (RNA Sequence)
 
+Tools used:
+1. Faster Download and extract reads
+2. FastQC
+3. Trimmomatic
+4. Trim Galore
+5. Cutadapt
+6. Bowtie2
+7. samtools Flagstat
