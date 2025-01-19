@@ -13,3 +13,4 @@
   - Adapter Content
 
 # Output of the Project is BAM file.
+  98.03% mapped
